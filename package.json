@@ -1,9 +1,6 @@
 {
   "name": "mern-task-manager",
   "version": "1.0.0",
-  "engines": {
-    "node": ">=18 <19"
-  },
   "description": "A MERN application for basic tasks management",
   "main": "index.js",
   "scripts": {
@@ -22,7 +19,7 @@
     "Task manager",
     "Full stack application"
   ],
-  "author": "Aayush",
+  "author": "NN",
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^7.1.0"
